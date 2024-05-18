@@ -14,3 +14,15 @@ Console.WriteLine("Really, I do!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("I love Mikaila");
 Console.WriteLine("Really, I do!");
+
+static void methodOne() {
+
+}
+
+static void methodTwo() {
+
+}
+
+
+
+
